@@ -9,12 +9,12 @@
 /* Begin PBXBuildFile section */
 		05005D291ED57F8B0045D8B7 /* RamblerAppDelegateProxy.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 05005D1F1ED57F8B0045D8B7 /* RamblerAppDelegateProxy.framework */; };
 		05005D2E1ED57F8B0045D8B7 /* RamblerAppDelegateProxyTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 05005D2D1ED57F8B0045D8B7 /* RamblerAppDelegateProxyTests.m */; };
-		05005D441ED57FE80045D8B7 /* RamblerAppDelegateProxy.h in Headers */ = {isa = PBXBuildFile; fileRef = 05005D3A1ED57FE80045D8B7 /* RamblerAppDelegateProxy.h */; };
+		05005D441ED57FE80045D8B7 /* RamblerAppDelegateProxy.h in Headers */ = {isa = PBXBuildFile; fileRef = 05005D3A1ED57FE80045D8B7 /* RamblerAppDelegateProxy.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		05005D451ED57FE80045D8B7 /* RamblerAppDelegateProxy.m in Sources */ = {isa = PBXBuildFile; fileRef = 05005D3B1ED57FE80045D8B7 /* RamblerAppDelegateProxy.m */; };
-		05005D461ED57FE80045D8B7 /* RamblerAppDelegateProxyInjector.h in Headers */ = {isa = PBXBuildFile; fileRef = 05005D3C1ED57FE80045D8B7 /* RamblerAppDelegateProxyInjector.h */; };
+		05005D461ED57FE80045D8B7 /* RamblerAppDelegateProxyInjector.h in Headers */ = {isa = PBXBuildFile; fileRef = 05005D3C1ED57FE80045D8B7 /* RamblerAppDelegateProxyInjector.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		05005D471ED57FE80045D8B7 /* RamblerAppDelegateProxyInjector.m in Sources */ = {isa = PBXBuildFile; fileRef = 05005D3D1ED57FE80045D8B7 /* RamblerAppDelegateProxyInjector.m */; };
-		05005D481ED57FE80045D8B7 /* RamblerAppDelegateProxyProtocol.h in Headers */ = {isa = PBXBuildFile; fileRef = 05005D3E1ED57FE80045D8B7 /* RamblerAppDelegateProxyProtocol.h */; };
-		05005D491ED57FE80045D8B7 /* RamblerDefaultAppDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 05005D3F1ED57FE80045D8B7 /* RamblerDefaultAppDelegate.h */; };
+		05005D481ED57FE80045D8B7 /* RamblerAppDelegateProxyProtocol.h in Headers */ = {isa = PBXBuildFile; fileRef = 05005D3E1ED57FE80045D8B7 /* RamblerAppDelegateProxyProtocol.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		05005D491ED57FE80045D8B7 /* RamblerDefaultAppDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 05005D3F1ED57FE80045D8B7 /* RamblerDefaultAppDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		05005D4A1ED57FE80045D8B7 /* RamblerDefaultAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 05005D401ED57FE80045D8B7 /* RamblerDefaultAppDelegate.m */; };
 		05005D4C1ED57FE80045D8B7 /* RamblerAppDelegateProxy.h in Headers */ = {isa = PBXBuildFile; fileRef = 05005D431ED57FE80045D8B7 /* RamblerAppDelegateProxy.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
