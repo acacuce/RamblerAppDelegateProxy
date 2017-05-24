@@ -43,6 +43,7 @@
 		05005D401ED57FE80045D8B7 /* RamblerDefaultAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RamblerDefaultAppDelegate.m; sourceTree = "<group>"; };
 		05005D421ED57FE80045D8B7 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		05005D431ED57FE80045D8B7 /* RamblerAppDelegateProxy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RamblerAppDelegateProxy.h; sourceTree = "<group>"; };
+		05050E9F1ED5846900478EA3 /* RamblerAppDelegateProxy-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "RamblerAppDelegateProxy-Bridging-Header.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +120,7 @@
 			children = (
 				05005D421ED57FE80045D8B7 /* Info.plist */,
 				05005D431ED57FE80045D8B7 /* RamblerAppDelegateProxy.h */,
+				05050E9F1ED5846900478EA3 /* RamblerAppDelegateProxy-Bridging-Header.h */,
 			);
 			path = SupportingFiles;
 			sourceTree = "<group>";
