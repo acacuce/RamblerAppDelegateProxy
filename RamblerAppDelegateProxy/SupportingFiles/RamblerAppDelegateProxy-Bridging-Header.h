@@ -7,4 +7,6 @@
 //
 
 #import "RamblerAppDelegateProxy.h"
-
+#import "RamblerAppDelegateProxyInjector.h"
+#import "RamblerAppDelegateProxyProtocol.h"
+#import "RamblerDefaultAppDelegate.h"
