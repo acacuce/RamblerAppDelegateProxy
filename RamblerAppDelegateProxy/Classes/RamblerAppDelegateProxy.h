@@ -8,6 +8,12 @@
 
 #import "RamblerAppDelegateProxyProtocol.h"
 
+//! Project version number for RamblerAppDelegateProxy.
+FOUNDATION_EXPORT double RamblerAppDelegateProxyVersionNumber;
+
+//! Project version string for RamblerAppDelegateProxy.
+FOUNDATION_EXPORT const unsigned char RamblerAppDelegateProxyVersionString[];
+
 /**
  @author Vadim Smal
  
